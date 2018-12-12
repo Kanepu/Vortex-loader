@@ -32,4 +32,6 @@ and dont mind the 40+ commits im just testing sum stuff
 
 [weakspider](https://www.unknowncheats.me/forum/members/172964.html) for the [Injection method](https://www.unknowncheats.me/forum/c-/213037-x86-manual-map-injection.html)
 
-[Roshly](https://github.com/Roshly) used his php script and copied some stuff from his readme.mb.
+[Roshly](https://github.com/Roshly) copied some stuff from his readme.mb.
+
+[Thaisen](https://github.com/ThaisenPM) used his web files and copied some stuff from his FAQ.
